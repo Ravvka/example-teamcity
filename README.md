@@ -5,3 +5,6 @@
 
 Артефакты   
 ![img_1.png](img/img_1.png)
+
+Артефакты в Nexus   
+![img_2.png](img/img_2.png)
